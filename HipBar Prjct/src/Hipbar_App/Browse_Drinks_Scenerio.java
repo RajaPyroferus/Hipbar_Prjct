@@ -14,6 +14,7 @@ public class Browse_Drinks_Scenerio
 {
 	WebDriver driver;
 	
+	//drinks Application
 	@BeforeClass
 	public void setup() throws MalformedURLException
 	{
